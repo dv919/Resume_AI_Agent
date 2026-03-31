@@ -1,0 +1,20 @@
+# Ignore the large dataset
+RESUME_DATA/
+*.csv
+
+# Ignore model and output files
+*.pkl
+*.png
+
+# Ignore the virtual environment
+venv/
+.venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore OS files
+.DS_Store
