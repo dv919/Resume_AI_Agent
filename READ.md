@@ -101,11 +101,6 @@ python explain.py       # Generate SHAP explanations
 - **SHAP** - Model explainability
 - **matplotlib** - Visualizations
 
-## 📄 License
-This project is open source and available under the MIT License.
-
-## 🤝 Contributing
-Feel free to fork, submit issues, and make pull requests!
-
-## 📧 Contact
-For questions or suggestions, reach out on GitHub.
+## 📄Author
+- **Deeksha V**
+- **ED23B015**
